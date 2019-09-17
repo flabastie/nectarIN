@@ -1,3 +1,12 @@
+Accueil-politesse
+Service-Technique
+Temps-Attente
+Changement-Opérateur
+Relation-Commerciale
+Cadre-Atmosphère
+Emotion-Ressenti
+
+
 Amabilité
 Accueil 
 Attente
@@ -25,6 +34,9 @@ Service
 Sympathie
 Technique
 Vente
+
+
+
 
 
 
